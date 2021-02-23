@@ -8,8 +8,8 @@ Focusing on :
 
 - [Kotlin](https://kotlinlang.org)
 
-### Sub Materi Kotlin :
-# 1. Dasar Kotlin Android
+# Sub Materi Kotlin :
+## 1. Dasar Kotlin Android
 - Instalasi Android & Debug
 - Pengenalan Lingkungan Android
 - Layout Dengan Design

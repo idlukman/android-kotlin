@@ -9,3 +9,10 @@ Focusing on :
 - [Kotlin](https://kotlinlang.org)
 
 ### Sub Materi Kotlin :
+- Instalasi Android & Debug
+- Pengenalan Lingkungan Android
+- Layout Dengan Design
+- Layout Dengan XML
+- Activity
+- Event
+- Perulangan 

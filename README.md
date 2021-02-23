@@ -17,7 +17,7 @@ Focusing on :
 - Activity
 - Event
 - Perulangan 
-# 2. Project Kotlin Android
+## 2. Project Kotlin Android
 - Library design 
 - Prototipe 
 - SQLite

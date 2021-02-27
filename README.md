@@ -9,7 +9,7 @@ Focusing on :
 - [Kotlin](https://kotlinlang.org)
 
 # Sub Materi Kotlin :
-## Kotlin 1
+## A. Kotlin 1
 ### 1. Dasar Kotlin Android
 - Instalasi Android & Debug
 - Pengenalan Lingkungan Android
@@ -24,7 +24,7 @@ Focusing on :
 - SQLite
 - Tugas Besar
 - FINAL-PROJECT
-## Kotlin 2
+## B. Kotlin 2
 ### Topik Materi
 - Pengenalan Lingkungan Networking
 - JSON 

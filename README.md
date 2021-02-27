@@ -9,7 +9,8 @@ Focusing on :
 - [Kotlin](https://kotlinlang.org)
 
 # Sub Materi Kotlin :
-## 1. Dasar Kotlin Android
+## Kotlin 1
+### 1. Dasar Kotlin Android
 - Instalasi Android & Debug
 - Pengenalan Lingkungan Android
 - Layout Dengan Design
@@ -17,9 +18,29 @@ Focusing on :
 - Activity
 - Event
 - Perulangan 
-## 2. Project Kotlin Android
+### 2. Project Kotlin Android
 - Library design 
 - Prototipe 
 - SQLite
 - Tugas Besar
 - FINAL-PROJECT
+## Kotlin 2
+### Topik Materi
+- Pengenalan Lingkungan Networking
+- JSON 
+- API
+- Pembuatan API
+- Library Networking 
+- Penggunaan 1 Library Networking
+- PROJECT
+- Google Maps / Mapbox 
+- Firebase 
+- Notification
+- Service
+- MLKit 
+- OpenCV
+- Tugas Besar 
+- FINAL-PROJECT
+
+
+

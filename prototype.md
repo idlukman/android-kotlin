@@ -27,11 +27,6 @@ Kenapa investor memerlukan prototipe? dan apa saja manfaatnya? Ada beberapa manf
 
 ### Contoh Prototipe
 
-Contoh sederhananya begini, seorang pengusaha ingin mengembangkan aplikasi penjualan. Kemudian, ia melakukan analisa kebutuhan konsumen, produk penjualan seperti apa yang diinginkan konsumen. Ternyata, mayoritas konsumen menginginkan aplikasi penjualan yang mempermudah transaksi pembelian.
+Contoh sederhananya begini, seorang pengusaha ingin mengembangkan aplikasi penjualan. Kemudian, ia melakukan analisa kebutuhan konsumen, produk penjualan seperti apa yang diinginkan konsumen. Ternyata, mayoritas konsumen menginginkan aplikasi penjualan yang mempermudah transaksi pembelian yaitu :
 
-<img src="01.jpg" style="width:30%"/> <img src="02.jpg" style="width:30%"/> <img src="03.jpg" style="width:30%"/>
-<img src="04.jpg" style="width:30%"/> <img src="05.jpg" style="width:30%"/> <img src="06.jpg" style="width:30%"/>
-<img src="07.jpg" style="width:30%"/> <img src="08.jpg" style="width:30%"/> <img src="09.jpg" style="width:30%"/>
-<img src="10.jpg" style="width:30%"/> <img src="11.jpg" style="width:30%"/> <img src="12.jpg" style="width:30%"/>
-<img src="13.jpg" style="width:30%"/> <img src="14.jpg" style="width:30%"/> <img src="15.jpg" style="width:30%"/>
-<img src="16.jpg" style="width:30%"/> <img src="17.jpg" style="width:30%"/>
+<img src="foto/01.jpg" style="width:10%"/> <img src="foto/02.jpg" style="width:10%"/> <img src="foto/03.jpg" style="width:10%"/> <img src="foto/04.jpg" style="width:10%"/> <img src="foto/05.jpg" style="width:10%"/> <img src="foto/06.jpg" style="width:10%"/> <img src="foto/07.jpg" style="width:10%"/> <img src="foto/08.jpg" style="width:10%"/> <img src="foto/09.jpg" style="width:10%"/> <img src="foto/10.jpg" style="width:10%"/> <img src="foto/11.jpg" style="width:10%"/> <img src="foto/12.jpg" style="width:10%"/> <img src="foto/13.jpg" style="width:10%"/> <img src="foto/14.jpg" style="width:10%"/> <img src="foto/15.jpg" style="width:10%"/> <img src="foto/16.jpg" style="width:10%"/> <img src="foto/17.jpg" style="width:10%"/>

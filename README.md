@@ -12,7 +12,7 @@ Focusing on :
 ## A. Kotlin 1
 ### 1. Dasar Kotlin Android
 - Instalasi Android & Debug
-- Pengenalan Lingkungan Android
+- [Pengenalan Lingkungan Android](Pengenalan_Lingkungan_Android.md)
 - Layout Dengan Design
 - Layout Dengan XML
 - Activity
@@ -20,7 +20,7 @@ Focusing on :
 - Perulangan 
 ### 2. Project Kotlin Android
 - Library design 
-- Prototipe 
+- [Prototipe](prototype.md) 
 - SQLite
 - Tugas Besar
 - FINAL-PROJECT

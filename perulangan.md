@@ -1,8 +1,8 @@
 # Perulangan
 
-kali ini kita akan membahas penggunaan **_looping_** atau **_perulangan_** pada kotlin,
+**Looping** atau dalam bahasa indonesia di sebut dengan **perulangan** merupakan fungsi pada pemrograman untuk mempermudah penulisan kode program yang tanpa harus menulis program tersebut berulang-ulang pada bahasa pemograman android menggunakan kotlin.
 
-<p>Berikut Ada tiga macam jenis dari struktur kontrol pengulangan yaitu :</p>
+<p>Berikut ini ada tiga macam jenis dari struktur kontrol pengulangan yaitu :</p>
 
 1. while
 2. do-while
@@ -88,11 +88,11 @@ Penggunaan for loop pada kotlin lebih simple dan mudah dibandingkan dengan Java,
 
 atau
 
-> for (variable(single/multiple variable) in expression) {
-
+```json
+for (variable(single/multiple variable) in expression) {
       // Pernyataan
-
 }
+```
 
 Pada contoh berikut ini, misalnya kita ingin mencetak kata "Sukses" sebanyak 7 kali, maka kita tidak memerlukan kondisi true, seperti pada while dan do-while, seperti ini :
 
@@ -123,3 +123,20 @@ fun main(args: Array<String>){
 Coba perhatikan gambar diatas, jika kita panggil data tersebut, nilai yang terdapat di sebelah kanan in akan keluar, itu artinya nilai tersebut bisa kita panggil melalui variable data, dan akan melooping sesuai dengan jumlah atau range pada nilai/expression tersebut.
 
 </p> Jika masih belum paham, mari kita ke contoh berikutnya, Disini kita akan membuat sebuah List, dimana pada list tersebut akan kita isi beberapa item, lalu kita akan mencetak semua item tersebut menggunakan for loop, Seperti berikut ini : </p>
+
+```json
+fun main(args: Array<String>){
+    val teman: List<String> = listOf("Wildan","Azis","Alvians","Ferdi")
+    for(data in teman){
+        data.let { println(it) }
+    }
+}
+```
+
+<p> Jika kita jalankan, hasilnya akan seperti gambar dibawah ini : </p>
+
+![Foto](https://3.bp.blogspot.com/-8_bo9T5yjwY/WUXyga-zVJI/AAAAAAAAB5M/UoCM8uXMCGkqDtjSAumhQXNvePvHXMGTACLcBGAs/s1600/Kotlin-Looping-Example6-min.jpg)
+
+Coba perhatikan, Program akan melooping sesuai jumlah item pada list yang terdapat pada variable teman, dikarenakan pada list tersebut berjumlah 4 item yaitu **"WIldan", "Azis", "Alvians", "Ferdi"**. Jadi program akan melooping sebanyak 4 kali.
+
+Fungsi **[let](https://let.org)** yaitu untuk Memanggil blok fungsi yang ditentukan dengan nilai **[this](https://this.org)** sebagai argumennya dan mengembalikan hasilnya, lalu kita akan mencetak semua item pada list tersebut melalui variable data, dengan menggunakan fungsi **[it](https://it.org)**.

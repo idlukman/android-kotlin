@@ -15,7 +15,7 @@ Focusing on :
 
 ### 1. Dasar Kotlin Android
 
-- Instalasi Android & Debug
+- [Instalasi Android & Debug](instalasi-android-dan-debug.md)
 - [Pengenalan Lingkungan Android](Pengenalan_Lingkungan_Android.md)
 - Layout Dengan Design
 - Layout Dengan XML
